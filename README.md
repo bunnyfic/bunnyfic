@@ -12,8 +12,19 @@ Interested in Machine Learning, Data Analytics & Web Development
 
 - Reach me at **mayahkamat@gmail.com**
 
+
+-- 💻 Languages & Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,r,react,js,html,css,nodejs,postgres,mysql,git,github,vscode" /><br><br>
 
 <img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
+
+
+
+<p align="center">
+  <img src="https://media.tenor.com/2V9YwN2Yg5IAAAAC/bunny-love.gif" width="500">
+</p>
+
+
