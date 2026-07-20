@@ -19,7 +19,7 @@ Interested in Machine Learning, Data Analytics & Web Development
 </p>
 
 📫 <b>mayahkamat@gmail.com</b>
-<img src="file_00000000196081faae5db0989a820486.png" width="420" style="margin-top:10px;">
+<img src="file_00000000196081faae5db0989a820486.png" width="520">
 
 </div>
 
