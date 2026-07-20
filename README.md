@@ -23,6 +23,7 @@ Interested in Machine Learning, Data Analytics & Web Development
   mayahkamat@gmail.com
 </a>
 
+𝙏𝓮chS𝓽ack  :
 <img src="IMG_20260720_222732.png" width="790">
 
 </div>
