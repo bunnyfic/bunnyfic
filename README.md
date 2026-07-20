@@ -18,7 +18,7 @@ Interested in Machine Learning, Data Analytics & Web Development
 
 
 -- 💻 Languages & Tools
-<img src="file_00000000196081faae5db0989a820486.png"><br><br>
+<img src="file_00000000196081faae5db0989a820486.png" width="120"><br><br>
 
 
 
