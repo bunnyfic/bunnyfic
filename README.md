@@ -5,11 +5,14 @@
 maya kamat 
 𝓢he / her
 
+Currently learning **Advanced Machine Learning & AI**
+Building Full Stack Applications with React, Node.js & PostgreSQL
+Interested in Machine Learning, Data Analytics & Web Development
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+- Reach me at **mayahkamat@gmail.com**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,react,js,html,css,nodejs,postgres,mysql,git,github,vscode" /><br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
+<img src="https://skillicons.dev/icons?i=streamlit" />
+</p>
