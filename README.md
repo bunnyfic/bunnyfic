@@ -1,6 +1,6 @@
 
 <div>
-<br>
+<br align="center">
 
 <img src="bow.jpg" width="100">
 
