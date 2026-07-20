@@ -33,7 +33,7 @@ Interested in Machine Learning, Data Analytics & Web Development
 <br> <br>
 𝓟rojects ’
 
-i)https://live-weather-dashboard-fgg8.onrender.com/
+i)<a href="https://live-weather-dashboard-fgg8.onrender.com/" target="_blank">𝓵iv𝓮 weather dashboard</a>
 ii) 
 
 
