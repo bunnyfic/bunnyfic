@@ -20,7 +20,7 @@ Interested in Machine Learning, Data Analytics & Web Development
 -- 💻 Languages & Tools
 
 <p>
-<img src="icons.png" /><br><br>
+<img src="icons.png"><br><br>
 
 
 </p>
