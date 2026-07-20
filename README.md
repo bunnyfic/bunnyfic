@@ -1,32 +1,33 @@
 
-<p align="center">
-  <img src="bow.jpg" width="100">
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
-maya kamat
+<img src="images/bow.png" width="70">
 
-𝓢he / her
+<br>
 
-Currently learning **Advanced Machine Learning & AI**
-Building Full Stack Applications with React, Node.js & PostgreSQL
+<img src="bow.jpg" width="100">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=bunnyfic&label=Profile%20Views&color=ffb6c1&style=flat" />
+
+<br><br>
+
+<h3>𝓢he / her</h3>
+
+<p>
+Currently learning <b>Advanced Machine Learning & AI</b><br>
+Building Full Stack Applications with React, Node.js & PostgreSQL<br>
 Interested in Machine Learning, Data Analytics & Web Development
-
-- Reach me at **mayahkamat@gmail.com**
-
-
--- 💻 Languages & Tools
-<p align="center">
-  
-
-<img src="file_00000000196081faae5db0989a820486.png" width="700"><br><br>
-
 </p>
 
+📫 <b>mayahkamat@gmail.com</b>
 
+<br><br>
 
+<img src="file_00000000196081faae5db0989a820486.png" width="420">
+
+</div>
 
 
 
