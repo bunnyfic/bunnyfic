@@ -1,4 +1,4 @@
-<p align="center">
+your<p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -23,8 +23,6 @@ Interested in Machine Learning, Data Analytics & Web Development
 
 
 
-<p align="center">
-  <img src="https://media.tenor.com/2V9YwN2Yg5IAAAAC/bunny-love.gif" width="500">
-</p>
+
 
 
