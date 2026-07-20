@@ -17,7 +17,9 @@ Currently learning <b>Advanced Machine Learning & AI</b><br>
 Building Full Stack Applications with React, Node.js & PostgreSQL<br>
 Interested in Machine Learning, Data Analytics & Web Development
 </p>
-<a href="mailto:mayahkamat@gmail.com" style="color:pink;">
+
+
+𝙈𝓪𝓲l at “ <a href="mailto:mayahkamat@gmail.com" style="color:pink;">
   mayahkamat@gmail.com
 </a>
 
