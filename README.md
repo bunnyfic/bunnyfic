@@ -20,9 +20,9 @@ Interested in Machine Learning, Data Analytics & Web Development
 -- 💻 Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,r,react,js,html,css,nodejs,postgres,mysql,git,github,vscode" /><br><br>
+<img src="icons.png" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=streamlit" />
+
 </p>
 
 
