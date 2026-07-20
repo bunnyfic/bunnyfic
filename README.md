@@ -1,15 +1,12 @@
 
 <div align="center">
-
-<img src="images/bow.png" width="70">
-
 <br>
 
 <img src="bow.jpg" width="100">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bunnyfic&label=Profile%20Views&color=ffb6c1&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=ffb6c1&style=flat" />
 
 <br><br>
 
