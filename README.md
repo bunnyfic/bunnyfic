@@ -1,13 +1,13 @@
 
 <div>
-<br align="center">
+<br> <div align="center">
 
 <img src="bow.jpg" width="100">
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=ffb6c1&style=flat" />
-
+</div>
 <br><br>
 
 <h3>𝓢he / her</h3>
@@ -19,7 +19,7 @@ Interested in Machine Learning, Data Analytics & Web Development
 </p>
 
 📫 <b>mayahkamat@gmail.com</b>
-<img src="IMG_20260720_222732.png" width="490">
+<img src="IMG_20260720_222732.png" width="790">
 
 </div>
 
