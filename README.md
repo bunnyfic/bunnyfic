@@ -28,6 +28,14 @@ Interested in Machine Learning, Data Analytics & Web Development
 
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bunnyfic&show_icons=true&theme=rose_pine" />
+</p>
+
+
+
+
+
 
 
 <br> <br>
@@ -35,8 +43,4 @@ Interested in Machine Learning, Data Analytics & Web Development
 
 i)<a href="https://live-weather-dashboard-fgg8.onrender.com/" target="_blank">𝓵iv𝓮 weather dashboard</a>
 ii) 
-
-
-
-
 
