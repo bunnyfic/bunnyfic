@@ -42,5 +42,5 @@ Interested in Machine Learning, Data Analytics & Web Development
 𝓟rojects ’
 
 i)<a href="https://live-weather-dashboard-fgg8.onrender.com/" target="_blank">𝓵iv𝓮 weather dashboard</a>
-ii) 
+ii)<a href="https://eplq-system-eta.vercel.app/" target="_blank">EPLQ 𝓼ystem</a>
 
