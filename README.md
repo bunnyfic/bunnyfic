@@ -13,7 +13,7 @@ Interested in Machine Learning, Data Analytics & Web Development
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bunnyfic&label=Profile%20Views&color=ffb6c1&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=loren&label=Profile%20Views&color=ffb6c1&style=flat" />
 </div>
 <br>
 
