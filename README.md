@@ -18,8 +18,9 @@ Interested in Machine Learning, Data Analytics & Web Development
 <img src="bow.jpg" width="50"> 
 Active Open Source Learner. 
 Interested in AI & Full Stack Development
-
+</div>
 <br><br>
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=coder&label=Profile%20Views&color=ffb6c1&style=flat" />
 </div>
