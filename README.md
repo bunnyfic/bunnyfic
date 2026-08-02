@@ -17,7 +17,9 @@ Interested in Machine Learning, Data Analytics & Web Development
 
 <img src="bow.jpg" width="50"> 
 Active Open Source Learner. 
-Interested in AI & Full Stack Development
+Interested in AI & Full Stack Development. 
+passionate about building scalable web applications and applying machine learning to solve real-world problems. I enjoy working with Python, SQL, React, and Node.js while continuously exploring AI and data analytics. 
+
 </div>
 <br><br>
 <div align="center">
