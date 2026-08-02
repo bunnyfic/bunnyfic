@@ -13,9 +13,11 @@ Building Full Stack Applications with React, Node.js & PostgreSQL<br>
 Interested in Machine Learning, Data Analytics & Web Development
 </p>
 <div>
-<br> <div align="center">
+<br> <div align="left">
 
-<img src="bow.jpg" width="100">
+<img src="bow.jpg" width="50"> 
+Active Open Source Learner. 
+Interested in AI & Full Stack Development
 
 <br><br>
 
