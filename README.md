@@ -1,5 +1,4 @@
 
-</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunnyfic&bg_color=fff0f6&color=ff69b4&line=ff69b4&point=ff1493&area=true&area_color=ffc0cb&hide_border=true" />
 </p>
