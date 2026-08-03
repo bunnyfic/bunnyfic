@@ -34,7 +34,7 @@ passionate about building scalable web applications and applying machine learnin
 𝙏𝓮chS𝓽ack  :
 <img src="IMG_20260720_222732.png" width="790">
 
-Python • SQL • Java • C • C++
+Python • MySQL • Java • C • C++
 
 React • Node.js • Express • PostgreSQL • MySQL
 Git • GitHub • Streamlit • Pandas • Plotly
