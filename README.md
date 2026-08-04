@@ -3,6 +3,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunnyfic&bg_color=fff0f6&color=ff69b4&line=ff69b4&point=ff1493&area=true&area_color=ffc0cb&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+I'm+Maya+%F0%9F%8C%B8;Data+Science+Student;Python+%7C+React+%7C+Machine+Learning;Always+Learning+Something+New+%F0%9F%92%96" />
+</p>
 
 <h3>𝓢he / her</h3>
 
