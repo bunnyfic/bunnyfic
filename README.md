@@ -3,9 +3,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunnyfic&bg_color=fff0f6&color=ff69b4&line=ff69b4&point=ff1493&area=true&area_color=ffc0cb&hide_border=true" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=FFAFE7&center=true&vCenter=true&width=500&lines=Hi+I'm+Maya kamat;Data+Science+Student;Python+%7C+React+%7C+Machine+Learning;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=FFAFE7&center=true&vCenter=true&width=500&lines=Hi+I'm+Maya+Kamat;Data+Science+Student;Python+%7C+React+%7C+Machine+Learning;Always+Learning+Something+New" />
 </p>
+
 
 <h3>𝓢he / her</h3>
 
