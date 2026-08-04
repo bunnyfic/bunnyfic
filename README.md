@@ -52,3 +52,7 @@ Git • GitHub • Streamlit • Pandas • Plotly
 i)<a href="https://live-weather-dashboard-fgg8.onrender.com/" target="_blank">𝓵iv𝓮 weather dashboard</a>
 ii)<a href="https://eplq-system-eta.vercel.app/" target="_blank">EPLQ 𝓼ystem</a>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+</p>
+
