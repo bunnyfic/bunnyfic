@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+I'm+Maya+%F0%9F%8C%B8;Data+Science+Student;Python+%7C+React+%7C+Machine+Learning;Always+Learning+Something+New+%F0%9F%92%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=FFAFE7&center=true&vCenter=true&width=500&lines=Hi+I'm+Maya kamat;Data+Science+Student;Python+%7C+React+%7C+Machine+Learning;Always+Learning+Something+New" />
 </p>
 
 <h3>𝓢he / her</h3>
