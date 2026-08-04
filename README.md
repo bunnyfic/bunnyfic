@@ -55,6 +55,5 @@ ii)<a href="https://eplq-system-eta.vercel.app/" target="_blank">EPLQ 𝓼ystem<
 
 streak chart-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bunnyfic&theme=custom&background=FDE7F3&ring=FF69B4&fire=FF69B4&currStreakLabel=E75480&sideLabels=E75480&currStreakNum=FF1493&sideNums=FF1493&dates=C97AA8&stroke=F8BBD9&border=F8BBD9" />
 </p>
-
