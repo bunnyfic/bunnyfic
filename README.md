@@ -54,7 +54,7 @@ Git • GitHub • Streamlit • Pandas • Plotly
 <br> <br>
 𝓟rojects ’
 
-i)<a href="https://live-weather-dashboard-fgg8.onrender.com/" target="_blank">𝓵iv𝓮 weather dashboard</a>
+i)<a href="https://live-weather-dashboard-1-b8n5.onrender.com/" target="_blank">𝓵iv𝓮 weather dashboard</a>
 ii)<a href="https://eplq-system-eta.vercel.app/" target="_blank">EPLQ 𝓼ystem</a>
 
 
