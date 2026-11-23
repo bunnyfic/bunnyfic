@@ -1,5 +1,5 @@
 
-<img src="marin.jpg" width="1000" height="350">
+<img src="marin.jpg" width="800" height="350">
 
 
 <p align="center">
