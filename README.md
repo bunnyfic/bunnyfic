@@ -1,5 +1,4 @@
 
-<img src="marin.jpg" width="900" height="250">
 
 
 <p align="center">
