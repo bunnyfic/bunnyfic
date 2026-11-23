@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunnyfic&bg_color=fff0f6&color=ff69b4&line=ff69b4&point=ff1493&area=true&area_color=ffc0cb&hide_border=true" />
-</p>
+
 
 
 <p align="center">
@@ -58,8 +56,7 @@ i)<a href="https://live-weather-dashboard-1-b8n5.onrender.com/" target="_blank">
 ii)<a href="https://eplq-system-eta.vercel.app/" target="_blank">EPLQ 𝓼ystem</a>
 
 
-**streak chart**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bunnyfic&theme=custom&background=FDE7F3&border=F8BBD9&stroke=F8BBD9&ring=FF69B4&fire=FF69B4&currStreakNum=FF1493&sideNums=FF1493&currStreakLabel=E75480&sideLabels=E75480&dates=C97AA8&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunnyfic&bg_color=fff0f6&color=ff69b4&line=ff69b4&point=ff1493&area=true&area_color=ffc0cb&hide_border=true" />
 </p>
