@@ -25,11 +25,11 @@ passionate about building scalable web applications and applying machine learnin
 <br><br>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=coder&label=Profile%20Views&color=ffb6c1&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=bunny&label=Profile%20Views&color=ffffff&style=flat" />
 </div>
 <br>
 
-𝙈𝓪𝓲l at “ <a href="mailto:mayahkamat@gmail.com" style="color:"pink";">
+𝙈𝓪𝓲l at “ <a href="mailto:mayahkamat@gmail.com" style="color:pink;">
   mayahkamat@gmail.com
 </a>
 
