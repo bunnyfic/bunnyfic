@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=FFAFE7&center=true&vCenter=true&width=500&lines=Hi+I'm+Maya+Kamat;Data+Science+Student;Python+%7C+React+%7C+Machine+Learning;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Maya+Kamat;Data+Science+Student;Python+%7C+React+%7C+Machine+Learning;Always+Learning+Something+New" />
 </p>
 
 
