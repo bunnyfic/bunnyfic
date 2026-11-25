@@ -29,7 +29,7 @@ passionate about building scalable web applications and applying machine learnin
 </div>
 <br>
 
-𝙈𝓪𝓲l at “ <a href="mailto:mayahkamat@gmail.com" style="color:pink;">
+𝙈𝓪𝓲l at “ <a href="mailto:mayahkamat@gmail.com" style="color:"pink";">
   mayahkamat@gmail.com
 </a>
 
