@@ -25,7 +25,7 @@ passionate about building scalable web applications and applying machine learnin
 <br><br>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=catcoder&label=Profile%20Views&color=ff69b4&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=lin&label=Profile%20Views&color=F4C2C2&style=flat" />
 </div>
 <br>
 
